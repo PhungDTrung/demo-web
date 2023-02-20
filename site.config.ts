@@ -57,12 +57,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Blog',
-      pageId: '0f9ea75287054eecb794f5b64371a842'
+      title: 'Food',
+      pageId: 'Food-0f9ea75287054eecb794f5b64371a842'
     },    
     {
-      title: 'NoCode VN',
-      pageId: '93331fa2964045248502bd314019c917'
+      title: 'Books',
+      pageId: 'Bookshelf-cecf74e31c644e5592b83cb49370c534'
     },    
     {
       title: 'Khoá học',

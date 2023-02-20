@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'About me',
-  domain: 'niviki.com',
+  domain: 'trungphung.vercel.app',
   author: 'Trung Phung',
 
   // open graph metadata (optional)

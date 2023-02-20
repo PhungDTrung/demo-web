@@ -9,19 +9,19 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'NIVIKI.COM - TỰ DO TÀI CHÍNH',
+  name: 'About me',
   domain: 'niviki.com',
-  author: 'Khoa Nguyen',
+  author: 'Trung Phung',
 
   // open graph metadata (optional)
-  description: 'Lan toả tinh thần tự do tài chính đến với nhiều người hơn nữa! Tự do tài chính là bạn được quyền “thất nghiệp” nhưng vẫn có đủ tiền cho một cuộc sống thoải mái trong thời gian dài',
+  description: 'One day you’ll see that every wrong thing in life was right',
 
   // social usernames (optional)
   twitter: 'khoa_nvk',
   // github: 'transitive-bullshit',
   linkedin: 'khoanguyen08',
   
-  facebook: 'https://www.facebook.com/groups/nocodevietnam',
+  facebook: 'https://www.facebook.com/trungpd99',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   youtube: 'channel/UCI6GDuK41kD9T8icFp8d7Aw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`

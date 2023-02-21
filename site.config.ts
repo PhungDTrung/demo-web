@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'One day you will see that every wrong thing in life was right',
 
   // social usernames (optional)
-  instagram: 'https://www.instagram.com/trph260',
+  instagram: 'trph260',
   // github: 'transitive-bullshit',
-  zalo: 'https://zalo.me/0988125565',
+  zalo: '0988125565',
   
   facebook: 'https://www.facebook.com/trungpd99',
   // mastodon: '#', // optional mastodon profile URL, provides link verification

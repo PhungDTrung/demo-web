@@ -26,6 +26,8 @@ export default siteConfig({
   // newsletter: '#', // optional newsletter URL
   youtube: '', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
+  instagram: 'https://www.instagram.com/trph260',
+  zalo: 'https://zalo.me/0988125565',
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,

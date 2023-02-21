@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Trung Phung',
 
   // open graph metadata (optional)
-  description: 'One day you’ll see that every wrong thing in life was right',
+  description: 'One day you will see that every wrong thing in life was right',
 
   // social usernames (optional)
   twitter: 'khoa_nvk',
@@ -65,8 +65,8 @@ export default siteConfig({
       pageId: 'Bookshelf-cecf74e31c644e5592b83cb49370c534'
     },    
     {
-      title: 'Khoá học',
-      pageId: '8e761b9e7d1b4db1ae76bbc1e4f9aa1f'
+      title: 'Music',
+      pageId: 'a31b43921a504673b78af9f70edd3ae3'
     },    
     {
       title: 'About',

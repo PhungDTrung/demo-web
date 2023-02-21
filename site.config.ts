@@ -17,17 +17,15 @@ export default siteConfig({
   description: 'One day you will see that every wrong thing in life was right',
 
   // social usernames (optional)
-  twitter: '',
+  instagram: 'https://www.instagram.com/trph260',
   // github: 'transitive-bullshit',
-  linkedin: '',
+  zalo: 'https://zalo.me/0988125565',
   
   facebook: 'https://www.facebook.com/trungpd99',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   youtube: '', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
-  instagram: 'https://www.instagram.com/trph260',
-  zalo: 'https://zalo.me/0988125565',
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,

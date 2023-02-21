@@ -17,14 +17,14 @@ export default siteConfig({
   description: 'One day you will see that every wrong thing in life was right',
 
   // social usernames (optional)
-  twitter: 'khoa_nvk',
+  twitter: '',
   // github: 'transitive-bullshit',
-  linkedin: 'khoanguyen08',
+  linkedin: '',
   
   facebook: 'https://www.facebook.com/trungpd99',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  youtube: 'channel/UCI6GDuK41kD9T8icFp8d7Aw', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: '', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -69,8 +69,8 @@ export default siteConfig({
       pageId: 'a31b43921a504673b78af9f70edd3ae3'
     },    
     {
-      title: 'About',
-      pageId: '38979ee661fc4a5d8af2d7c32319ee0d'
+      title: 'Contact',
+      pageId: 'ce97c9c4014c4709b21bb7b75f410001'
     }
   ]
 })

@@ -42,9 +42,9 @@ export const FooterImpl: React.FC = () => {
         <div>
           Liên kết:
         </div>
-        <a href="https://toidicodedao.com/" target="_blank" rel="noreferrer">Tôi đi code dạo</a> |
-        <a href="https://laptrinhcuocsong.com/" target="_blank" rel="noreferrer"> Lập trình cuộc sống</a>
-        <br/><a href="https://discord.gg/6SFW4yydvG" target="_blank" rel="noreferrer">Join Discord Channel để giao lưu
+        <a href="https://www.facebook.com/trungpd99" target="_blank" rel="noreferrer">Tay trái dây nóng</a> |
+        <a href="https://www.instagram.com/trph260/" target="_blank" rel="noreferrer"> Tay phải dây lạnh</a>
+        <br/><a href="https://discord.gg/PE9zA2b" target="_blank" rel="noreferrer">Join Discord Channel để giao lưu
         với nhau nhé 🙋‍♂️</a>
       </div>
 

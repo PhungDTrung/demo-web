@@ -2,17 +2,17 @@
     "name": "About me",
     "short_name": "Trung",
     "icons": [{
-            "src": "/favicon.png",
+            "src": "/logo.png",
             "type": "image/png",
             "sizes": "32x32"
         },
         {
-            "src": "/favicon-128x128.png",
+            "src": "/logo128.png",
             "type": "image/png",
             "sizes": "128x128"
         },
         {
-            "src": "/favicon-192x192.png",
+            "src": "/logo192.png",
             "type": "image/png",
             "sizes": "192x192"
         }
